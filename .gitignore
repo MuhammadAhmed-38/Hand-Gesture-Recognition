@@ -16,8 +16,6 @@ venv/
 reduced_data/
 split_data/
 
-# Results / images
-Results Images/
 
 # Models
 *.h5
