@@ -1,0 +1,24 @@
+# macOS junk
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Datasets (DO NOT upload)
+reduced_data/
+split_data/
+
+# Results / images
+Results Images/
+
+# Models
+*.h5
+*.pkl
