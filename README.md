@@ -192,6 +192,7 @@ This section explains how to **reproduce the experiments** and **run real-time h
 ```bash
 git clone https://github.com/MuhammadAhmed-38/Hand-Gesture-Recognition.git
 cd Hand-Gesture-Recognition
+```
 
 ### 2️⃣ Set Up a Python Environment (Recommended)
 python3 -m venv venv
@@ -250,7 +251,7 @@ Press **q** to exit the webcam window.
     3- Fine-tuning pretrained layers
     4- Modifying batch size or learning rate
     5- Testing additional gestures or datasets
-
+---
 
 ## 🔭 Current Limitations & Future Work
 
